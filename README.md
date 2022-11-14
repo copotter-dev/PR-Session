@@ -1,3 +1,3 @@
 # PR Session Test Commit
 
-- 이걸 Pull Request 올릴 것 잎니다.
+- 이걸 코드라고 올린건가요?
